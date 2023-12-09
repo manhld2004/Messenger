@@ -1,0 +1,11 @@
+.our_text {
+    -fx-background-color: #5728e7;
+    -fx-background-radius: 20 0 20 20;
+    -fx-text-fill: #e7e7e7;
+}
+
+.opp_text {
+    -fx-background-color: rgba(220, 78, 163, 0.91);
+    -fx-background-radius: 0 20 20 20;
+    -fx-text-fill: #e7e7e7;
+}
